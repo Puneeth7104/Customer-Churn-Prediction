@@ -1,0 +1,20 @@
+{
+  "best_model": "XGBoost",
+  "n_rows": 5000,
+  "churn_rate": 0.302,
+  "test_size": 1000,
+  "top10_precision": 0.62,
+  "top10_lift": 2.0529801324503314,
+  "high_risk_count": 941,
+  "medium_risk_count": 1488,
+  "confusion": [
+    [
+      496,
+      202
+    ],
+    [
+      117,
+      185
+    ]
+  ]
+}

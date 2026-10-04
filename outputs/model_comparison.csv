@@ -1,0 +1,4 @@
+Model,ROC-AUC,Precision,Recall,F1,Brier (calibration)
+Logistic Regression,0.7257,0.4493,0.6755,0.5397,0.2115
+Random Forest,0.7268,0.5236,0.4768,0.4991,0.1893
+XGBoost,0.729,0.478,0.6126,0.537,0.2018

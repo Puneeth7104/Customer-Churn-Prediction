@@ -1,0 +1,16 @@
+,importance
+contract_Monthly,0.1167
+support_freq_per_month,0.0596
+contract_Annual,0.0583
+support_tickets_90d,0.0463
+tenure_months,0.0441
+payment_risk,0.0435
+satisfaction_score,0.0408
+usage_trend,0.0331
+late_payments_6m,0.0323
+discount_active,0.0306
+usage_hours_m1,0.0275
+region_North,0.027
+avg_resolution_days,0.0268
+charges_per_tenure,0.0236
+logins_last_30d,0.0229
