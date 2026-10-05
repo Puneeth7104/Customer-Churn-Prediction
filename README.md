@@ -6,6 +6,7 @@ Predicts which subscription customers are likely to leave, ranks them by risk, a
 
 ## Live demo
 Deployed on Streamlit Community Cloud: https://customer-churn-prediction-zedpba8tn3grzuydusuxxn.streamlit.app/
+Project Report: _https://github.com/Puneeth7104/Customer-Churn-Prediction/blob/main/Customer_Churn_Project_Report.pdf_
 
 ## Pipeline
 1. **Data** - 5,000 synthetic customers: demographics, tenure, usage (3 months), support interactions, billing history, churn label (~30%).
